@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="https://epochailabs.com">Website</a>
+  <a href="https://example.com">Website</a> [Under construction]
   &middot;
-  <a href="mailto:research@epochailabs.com">Research</a>
+  <a href="mailto:davekriday@gmail.com">Research</a>
   &middot;
   <a href="mailto:hello@epochailabs.com">Contact</a>
 </p>
